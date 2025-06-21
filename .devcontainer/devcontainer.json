@@ -23,7 +23,8 @@
 				"ms-python.pylint",
 				"ms-python.isort",
 				"ms-toolsai.jupyter",
-				"Posit.air-vscode"
+				"Posit.air-vscode",
+				"gvelasq.tomorrow-night-bright-r-classic"
 			],
 			"settings": {
 				"r.rterm.option": [
@@ -35,7 +36,8 @@
 				"[r]": {
 					"editor.defaultFormatter": "Posit.air-vscode",
 					"editor.formatOnSave": true
-				}
+				},
+				"workbench.colorTheme": "Tomorrow Night Bright R-Classic"
 			}
 		}
 	}
