@@ -61,7 +61,7 @@
 					"editor.defaultFormatter": "Posit.air-vscode",
 					"editor.formatOnSave": true
 				},
-				"workbench.colorTheme": "Tomorrow Night Bright R-Classic"
+				"workbench.colorTheme": "Tomorrow Night Bright (R Classic)"
 			}
 		}
 	}
